@@ -3,7 +3,7 @@
 }
 
 body {
-    background: linear-gradient(to right, #ffac1d 0%, #ff6200 100%);
+    background: linear-gradient(to right, #1dc3ff 0%, #ff4acf 100%);
     font-size: 12px;
 }
 
@@ -71,7 +71,7 @@ body, button, input {
 }
 
 .screen-header-button.close {
-    background: #ed1c6f;
+    background: #ff70a788;
 }
 
 .screen-header-button.maximize {
@@ -112,7 +112,7 @@ body, button, input {
     display: flex;
     flex-direction: column;
     position: relative;
-    color: #fea414;
+    color: #ff70a788;
     font-size: 26px;
 }
 
@@ -124,7 +124,7 @@ body, button, input {
     bottom: -10px;
     width: 25px;
     height: 4px;
-    color: #fea414;
+    color: #ff70a788;
 }
 
 .app-contact {
@@ -170,14 +170,14 @@ body, button, input {
 .app-form-button {
     background: none;
     border: none;
-    color: #fea414;
+    color: #ff70a788;
     font-size: 14px;
     cursor: pointer;
     outline: none;
 }
 
 .app-form-button:hover {
-    color: #fea414;
+    color: #ff70a788;
 }
 
 
