@@ -303,7 +303,7 @@ img {
 
 .nav a {
   color: rgb(0, 0, 0);
-  -webkit-text-stroke: 0.3px rgb(253, 221, 8);
+  -webkit-text-stroke: 0.3px rgb(208, 8, 253);
   text-decoration: none;
   padding-left: 2vw;
   padding-right: 1vw;
@@ -312,7 +312,7 @@ img {
   font-size: x-large;
   letter-spacing: 5px;
   position: relative;
-  left: 19vw;
+  left: 17.5vw;
   top: -9vh;
 }
 
