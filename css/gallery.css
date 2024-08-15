@@ -76,7 +76,7 @@ img {
   background: rgba(255, 255, 255, 0.5);
   box-shadow: 0 0 20px 10px rgba(255, 255, 255, 0.5);
   width: 200px;
-  height: 200px;
+  height: 300px;
   margin: 0 auto;
   border-radius: 50%;
   transition: background 0.5s ease;
@@ -263,40 +263,6 @@ img {
     width: 50%;
   }
 }
-@media screen and (min-width: 1336px) {
-  .product-collection-wrapper {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .flex {
-    height: 60vh;
-  }
-  .product-col-left {
-    height: 121.5vh;
-  }
-  #can {
-    position: relative;
-    bottom: 3vh;
-    right: 5.3vw;
-    width: 21vw;
-    height: 27vh;
-  }
-}
-#can {
-  position: relative;
-  bottom: 2vh;
-  right: 3.7vw;
-  width: 21vw;
-  height: 27vh;
-}
-
-#coming_soon {
-  width: 23vw;
-  height: 26vh;
-  position: relative;
-  right: 5vw;
-}
-
 #head {
   background-color: #f8f9fa;
 }
@@ -341,5 +307,18 @@ img {
 
 #clouds {
   position: absolute;
-  height: 99vh;
+}
+
+img {
+  width: 260px;
+  position: relative;
+  right: 2vw;
+  bottom: 4vh;
+}
+
+#coming_soon {
+  position: relative;
+  right: 4vw;
+  top: 4vh;
+  width: 320px;
 }/*# sourceMappingURL=gallery.css.map */
